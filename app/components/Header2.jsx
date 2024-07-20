@@ -9,7 +9,7 @@ const Header2 = () => {
         <div className='border-b border-gray-600 m-10'></div>
         <div className='sm:m-10 flex flex-wrap justify-evenly gap-4'>
           {[...Array(6)].map((_, index) => (
-            <Image key={index} src='/planet.png' height={200} width={200} alt='img' />
+            <Image key={index} src='./planet.png' height={200} width={200} alt='img' />
           ))}
         </div>
         <div className='border-b border-gray-600 m-10'></div>
