@@ -55,12 +55,12 @@ const Project = ({ title }) => (
       </p>
       <p className=" mt-10 font-semibold">Business analysis / iOS / Android / QA / UI/UX Design</p>
       <div className=" flex gap-4 mt-8 ml-20">
-          <Image src='/app.png' height={150} width={150} alt="img"/>
-          <Image src='/gp.png' height={150} width={150} alt="img"/>
+          <Image src='./app.png' height={150} width={150} alt="img"/>
+          <Image src='./gp.png' height={150} width={150} alt="img"/>
         </div>
     </div>
     <div className="w-1/2 ">
-      <img src="/image 15.png" alt={title} />
+      <img src="./image 15.png" alt={title} />
     </div>
   </div>
 );
