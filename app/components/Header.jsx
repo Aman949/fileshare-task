@@ -32,7 +32,7 @@ const Header = () => {
         </div>
         <div className="col-span-1 md:col-span-4 flex items-center justify-center">
           <Image
-            src="/Group 1.png"
+            src="./Group 1.png"
             height={800}
             width={800}
             alt="grp"
