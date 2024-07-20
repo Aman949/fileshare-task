@@ -15,7 +15,7 @@ const Header3 = () => {
         </p>
         <div className='pt-10 pb-20'>
           <Image
-            src="/Frame 2.png"
+            src="./Frame 2.png"
             width={1400}
             height={1400}
             alt='img'
