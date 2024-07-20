@@ -31,7 +31,7 @@ const Footer = () => {
   return (
     <div className='h-auto py-10 px-5 m-5 bg-black text-white flex flex-col items-center justify-around rounded-xl'>
       <Image
-        src='/logo-bg-3 2.png'
+        src='./logo-bg-3 2.png'
         height={280}
         width={280}
         alt='logo'
