@@ -22,7 +22,7 @@ const Header5 = () => {
         </p>
       </div>
       <div>
-        <Image src="/grp.png" height={400} width={400} alt="grp" />
+        <Image src="./grp.png" height={400} width={400} alt="grp" />
       </div>
     </div>
   );
